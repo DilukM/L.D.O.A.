@@ -1,5 +1,5 @@
-import 'package:appbar_example/main.dart';
-import 'package:appbar_example/page/companies.dart';
+import 'package:LDOA/main.dart';
+import 'package:LDOA/page/companies.dart';
 import 'package:flutter/material.dart';
 
 import 'cp.dart';
