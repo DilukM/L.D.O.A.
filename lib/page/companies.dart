@@ -126,9 +126,9 @@ class _companiesState extends State<companies> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('SQL'),
-      ),
+      // appBar: AppBar(
+      //   title: const Text('SQL'),
+      // ),
       body: _isLoading
           ? const Center(
               child: CircularProgressIndicator(),
